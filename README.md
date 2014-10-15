@@ -10,6 +10,7 @@ Arayüz tasarımı için fikirler
 (Hava durumu bilgilerini YAHOO'nun API'sini kullanarak elde edebiliriz.)
 
 - Ders saatlerini, hangi dersin hangi sınıfta olduğunu ve sınıfların konumları gösterilebilir. Konumları doğru göstermek için her katın ayrı bir konum tablosu olması gerekir.
+- 
 - Derse girecek olan akedemisyen bilgileri eklenebilir.
 (Ders saatlerini de Google Calendar'ın API'sini kullanara elde edebiliriz.)
 
@@ -17,6 +18,8 @@ Arayüz tasarımı için fikirler
 
 - Herhangi bir köşede o gün yemekhanede ne yemek olduğu gösterilebilir.
 (Copyright © 2014 Zeki Güler)
+
+- Okulun (özellikle fakültenin) siteye eklediği duyurular, eklendiği ilk gün dikkat çekecek şekilde daha sonra bir hafta boyunca ara ara ekrana verebiliriz. (Belki altyazı şeklinde sürekli olarak da geçirebiliriz.)
 
 - O hafta yapılıcak etkinliklerin afişleri slayt şeklinde gösterilebilir.
 - 
