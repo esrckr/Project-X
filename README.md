@@ -1,7 +1,7 @@
 Project-X
 =========
 
-Mühendislik binasındaki katlara ekran koyma ve ekranda kullanıcılara gösterilicek arayüzün yazılımını yazma
+Mühendislik binasındaki katlara ekran yerleştirilmesi ve ekranda kullanıcılara gösterilicek arayüzün yazılımının yazılması.
 
 Arayüz tasarımı için fikirler
 --------------------
@@ -9,7 +9,7 @@ Arayüz tasarımı için fikirler
 - Ekranın içinde tarih, saat ve hava durumunu gösteren bir sağ alt köşe olabilir. 
 (Hava durumu bilgilerini YAHOO'nun API'sini kullanarak elde edebiliriz.)
 
-- Ders saatlerini, hangi desrin hangi sınıfta olduğunu ve sınıfların konumları gösterilebilir. Konumları doğru göstermke için her katın ayrı bir konum tablosu olmalı.
+- Ders saatlerini, hangi dersin hangi sınıfta olduğunu ve sınıfların konumları gösterilebilir. Konumları doğru göstermek için her katın ayrı bir konum tablosu olması gerekir.
 (Ders saatlerini de Google Calendar'ın API'sini kullanara elde edebiliriz.)
 
 - Herhangi bir köşede o gün yemekhanede ne yemek olduğu gösterilebilir.
@@ -20,7 +20,7 @@ Arayüz tasarımı için fikirler
 Bakılması gereken kaynaklar :
 ---------------------------
 
-- Digital signage Linux
+- Digital Signage Linux
 - Google Calendar API
 - YAHOO Weather API
 
